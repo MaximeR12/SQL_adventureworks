@@ -11,4 +11,4 @@ Pour la restauration de la database depuis les fichiers .bac, J'ai deployé une 
 J'ai ensuite pu la parcourir avec l'application TablePlus, avec laquelle j'ai effectué les requetes SQL présentes dans le fichier "AWqueries.sql"
 ## Conclusion
 
-Ce projet vous offre une opportunité d'apprentissage passionnante dans le domaine des bases de données et de la BI. N'hésitez pas à explorer davantage ces concepts et à poser des questions si nécessaire. Bonne chance avec votre projet AdventureWorks Database !
+Ce projet m'a permis d'étendre grandement mes connaissances en sql et en BI ce qui, par conséquent, nous a aidé à mieux comprendre le travail des data engineers et autres personnes qui manipulent des ETL, et rendent les bases de données plus efficaces dans l'ecriture, le stockage ou meme les requetes.
